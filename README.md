@@ -35,6 +35,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [0008-string-to-integer-atoi](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0008-string-to-integer-atoi) |
 ## Stack
 |  |
 | ------- |
