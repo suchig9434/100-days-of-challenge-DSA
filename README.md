@@ -10,6 +10,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0217-contains-duplicate) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,12 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
