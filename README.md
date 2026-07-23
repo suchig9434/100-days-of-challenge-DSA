@@ -85,4 +85,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
