@@ -23,6 +23,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0008-string-to-integer-atoi](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0008-string-to-integer-atoi) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 ## Stack
 |  |
 | ------- |
@@ -79,4 +81,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
