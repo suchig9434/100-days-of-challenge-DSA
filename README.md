@@ -30,12 +30,14 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0217-contains-duplicate](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0217-contains-duplicate) |
 | [0169-majority-element](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0169-majority-element) |
+| [3536-maximum-product-of-two-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
