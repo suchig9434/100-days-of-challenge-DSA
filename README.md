@@ -14,6 +14,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0169-majority-element](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0169-majority-element) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
