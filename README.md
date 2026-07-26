@@ -16,6 +16,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,4 +105,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
