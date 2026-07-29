@@ -17,6 +17,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
+| [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -117,4 +119,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
