@@ -46,6 +46,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3536-maximum-product-of-two-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +59,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3499-maximize-active-section-with-trade-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +69,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
