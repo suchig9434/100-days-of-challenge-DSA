@@ -20,6 +20,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
+| [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 ## Combinatorics
 |  |
 | ------- |
