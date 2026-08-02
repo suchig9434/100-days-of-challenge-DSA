@@ -127,6 +127,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0180-consecutive-numbers) |
 ## Binary Search
 |  |
 | ------- |
