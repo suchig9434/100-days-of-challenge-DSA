@@ -19,6 +19,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -142,4 +145,5 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
