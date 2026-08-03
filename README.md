@@ -104,6 +104,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0169-majority-element) |
+| [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
 ## Counting
 |  |
 | ------- |
@@ -156,4 +157,16 @@ solve 100 days to 100 questions in leetcode platform
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
