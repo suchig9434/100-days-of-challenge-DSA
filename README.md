@@ -22,6 +22,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
+| [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -152,4 +155,5 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
