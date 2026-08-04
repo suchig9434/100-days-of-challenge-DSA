@@ -23,6 +23,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0628-maximum-product-of-three-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
