@@ -132,6 +132,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0010-regular-expression-matching](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0050-powx-n](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0050-powx-n) |
+| [0024-swap-nodes-in-pairs](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Database
 |  |
 | ------- |
@@ -166,6 +167,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
