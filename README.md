@@ -70,6 +70,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 | [0050-powx-n](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0050-powx-n) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -126,6 +127,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
