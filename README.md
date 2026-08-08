@@ -44,6 +44,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -151,6 +154,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0011-container-with-most-water](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
 |  |
 | ------- |
