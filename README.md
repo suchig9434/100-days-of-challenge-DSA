@@ -26,6 +26,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 | [0046-permutations](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 | [0050-powx-n](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0050-powx-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -174,6 +177,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -199,4 +203,16 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
