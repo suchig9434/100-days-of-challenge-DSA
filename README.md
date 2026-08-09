@@ -27,6 +27,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0046-permutations](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +201,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
