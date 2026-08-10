@@ -50,6 +50,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
+| [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
+| [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 ## Game Theory
 |  |
 | ------- |
@@ -235,4 +238,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
