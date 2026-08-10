@@ -49,6 +49,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0050-powx-n](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0050-powx-n) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -182,6 +184,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0877-stone-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +217,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,4 +226,13 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
