@@ -79,6 +79,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
+| [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,6 +97,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +124,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
+| [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
