@@ -162,6 +162,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0175-combine-two-tables](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0180-consecutive-numbers) |
+| [0176-second-highest-salary](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0176-second-highest-salary) |
 ## Binary Search
 |  |
 | ------- |
