@@ -29,6 +29,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,4 +247,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
