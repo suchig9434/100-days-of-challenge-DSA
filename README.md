@@ -30,6 +30,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
