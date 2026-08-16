@@ -32,6 +32,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
+| [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
 | [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +108,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
