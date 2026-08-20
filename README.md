@@ -113,6 +113,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
+| [0038-count-and-say](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0038-count-and-say) |
 ## Stack
 |  |
 | ------- |
