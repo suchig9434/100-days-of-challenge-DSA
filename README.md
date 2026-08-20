@@ -34,6 +34,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
 | [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
