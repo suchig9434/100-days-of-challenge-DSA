@@ -36,6 +36,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,4 +290,5 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
