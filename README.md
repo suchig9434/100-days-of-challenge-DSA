@@ -98,6 +98,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -120,6 +121,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0038-count-and-say](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0038-count-and-say) |
+| [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +135,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
+| [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -228,6 +231,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 ## Linked List
 |  |
 | ------- |
