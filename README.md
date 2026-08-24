@@ -38,6 +38,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
+| [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3731-find-missing-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3731-find-missing-elements) |
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
+| [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0031-next-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0075-sort-colors) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 ## Combinatorics
 |  |
 | ------- |
