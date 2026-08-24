@@ -37,6 +37,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +235,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
@@ -266,16 +270,19 @@ solve 100 days to 100 questions in leetcode platform
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
