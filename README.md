@@ -39,6 +39,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
