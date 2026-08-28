@@ -217,6 +217,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0086-partition-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -248,6 +249,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0086-partition-list) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
