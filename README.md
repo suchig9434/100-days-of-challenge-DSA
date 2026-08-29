@@ -40,6 +40,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -318,4 +320,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1114-print-in-order) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
