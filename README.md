@@ -129,6 +129,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0038-count-and-say](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0038-count-and-say) |
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +178,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3499-maximize-active-section-with-trade-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0086-partition-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
