@@ -42,6 +42,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2029-stone-game-ix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2029-stone-game-ix) |
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
