@@ -41,6 +41,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +86,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0049-group-anagrams](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0049-group-anagrams) |
 | [0016-3sum-closest](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0016-3sum-closest) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
