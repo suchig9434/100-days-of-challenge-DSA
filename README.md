@@ -267,6 +267,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0024-swap-nodes-in-pairs](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0086-partition-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
