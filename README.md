@@ -43,6 +43,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Stack
 |  |
 | ------- |
@@ -334,4 +336,12 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
