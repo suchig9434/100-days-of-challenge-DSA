@@ -44,6 +44,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +203,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0078-subsets](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0078-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -288,6 +292,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
