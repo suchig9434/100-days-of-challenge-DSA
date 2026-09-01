@@ -46,6 +46,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +209,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
