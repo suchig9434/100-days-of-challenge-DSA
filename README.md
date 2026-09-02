@@ -47,6 +47,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1927-sum-game](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1927-sum-game) |
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
