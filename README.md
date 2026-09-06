@@ -85,6 +85,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 | [1563-stone-game-v](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
+| [0115-distinct-subsequences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0115-distinct-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [0115-distinct-subsequences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0115-distinct-subsequences) |
 ## Stack
 |  |
 | ------- |
