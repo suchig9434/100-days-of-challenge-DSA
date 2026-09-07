@@ -51,6 +51,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3876-construct-uniform-parity-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3904-smallest-stable-index-ii) |
+| [0033-search-in-rotated-sorted-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [0033-search-in-rotated-sorted-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
