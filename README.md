@@ -311,6 +311,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,4 +379,12 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
