@@ -53,6 +53,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3904-smallest-stable-index-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [0835-image-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [0835-image-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
