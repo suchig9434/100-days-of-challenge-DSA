@@ -135,6 +135,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3876-construct-uniform-parity-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3870-count-commas-in-range](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3871-count-commas-in-range-ii) |
+| [0836-rectangle-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0836-rectangle-overlap) |
 ## Number Theory
 |  |
 | ------- |
@@ -395,4 +396,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
