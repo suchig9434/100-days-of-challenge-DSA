@@ -91,6 +91,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0115-distinct-subsequences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0115-distinct-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +138,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3870-count-commas-in-range](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [0836-rectangle-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Number Theory
 |  |
 | ------- |
@@ -282,6 +284,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,6 +353,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1872-stone-game-viii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3904-smallest-stable-index-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Zero-Sum Game
 |  |
 | ------- |
