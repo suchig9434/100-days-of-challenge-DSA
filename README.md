@@ -76,6 +76,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0115-distinct-subsequences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -192,6 +195,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
