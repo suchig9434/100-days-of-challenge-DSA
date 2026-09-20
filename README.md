@@ -177,6 +177,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0125-valid-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +216,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1260-shift-2d-grid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1260-shift-2d-grid) |
 | [0043-multiply-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
