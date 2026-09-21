@@ -55,6 +55,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [0835-image-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0836-rectangle-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
 |  |
 | ------- |
