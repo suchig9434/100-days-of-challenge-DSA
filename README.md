@@ -56,6 +56,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0835-image-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -407,6 +409,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
