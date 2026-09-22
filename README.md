@@ -57,6 +57,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +153,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1401-circle-and-rectangle-overlapping](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -253,6 +257,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -282,6 +287,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0033-search-in-rotated-sorted-array](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
