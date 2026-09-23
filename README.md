@@ -58,6 +58,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +290,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +379,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3903-smallest-stable-index-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -403,6 +407,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [0219-contains-duplicate-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Concurrency
 |  |
 | ------- |
