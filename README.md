@@ -84,6 +84,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -191,10 +193,12 @@ solve 100 days to 100 questions in leetcode platform
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +325,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0047-permutations-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0047-permutations-ii) |
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -362,6 +367,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1091-shortest-path-in-binary-matrix](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
 | ------- |
