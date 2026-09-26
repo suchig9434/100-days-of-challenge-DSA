@@ -197,6 +197,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3498-reverse-degree-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1844-replace-all-digits-with-characters) |
 ## Stack
 |  |
 | ------- |
