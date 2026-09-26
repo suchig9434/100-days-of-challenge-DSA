@@ -60,6 +60,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +196,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |
 | ------- |
