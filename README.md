@@ -107,6 +107,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -279,6 +281,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0486-predict-the-winner](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0486-predict-the-winner) |
 | [0050-powx-n](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0050-powx-n) |
 | [0024-swap-nodes-in-pairs](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -453,4 +456,8 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0836-rectangle-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
