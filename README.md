@@ -62,6 +62,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
+| [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
 ## Monotonic Stack
 |  |
 | ------- |
