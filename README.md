@@ -206,12 +206,14 @@ solve 100 days to 100 questions in leetcode platform
 | [1844-replace-all-digits-with-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -427,6 +429,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0022-generate-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Sliding Window
 |  |
 | ------- |
