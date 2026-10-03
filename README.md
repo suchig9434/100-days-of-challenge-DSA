@@ -112,6 +112,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3524-find-x-value-of-array-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +209,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -433,6 +436,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
