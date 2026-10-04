@@ -113,6 +113,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +240,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
 | [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -437,6 +441,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [0020-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
