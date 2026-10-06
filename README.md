@@ -170,6 +170,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
+| [0029-divide-two-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0029-divide-two-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -298,6 +299,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [1386-cinema-seat-allocation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1386-cinema-seat-allocation) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
+| [0029-divide-two-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
