@@ -213,6 +213,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +225,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
@@ -243,6 +245,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
 | [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -445,6 +448,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
