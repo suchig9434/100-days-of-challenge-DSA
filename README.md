@@ -90,6 +90,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
+| [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
+| [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +218,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0301-remove-invalid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
