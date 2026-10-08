@@ -219,6 +219,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0301-remove-invalid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +232,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -457,6 +459,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
