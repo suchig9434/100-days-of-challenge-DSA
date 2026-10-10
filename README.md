@@ -63,6 +63,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +258,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +344,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [0268-missing-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0268-missing-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -395,6 +399,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
