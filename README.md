@@ -64,6 +64,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0135-candy](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0135-candy) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +301,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3345-smallest-divisible-digit-product-i](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
