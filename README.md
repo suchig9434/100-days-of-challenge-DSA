@@ -178,6 +178,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 | [0029-divide-two-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0029-divide-two-integers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -263,6 +264,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
