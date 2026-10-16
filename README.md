@@ -66,6 +66,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0409-longest-palindrome](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0409-longest-palindrome) |
 | [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -498,6 +500,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3525-find-x-value-of-array-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -519,4 +522,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
