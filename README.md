@@ -68,6 +68,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0242-valid-anagram](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0242-valid-anagram) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0509-fibonacci-number](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0509-fibonacci-number) |
 | [0029-divide-two-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0029-divide-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -313,6 +316,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
