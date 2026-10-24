@@ -71,6 +71,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [0039-combination-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -396,6 +397,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3348-smallest-divisible-digit-product-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0039-combination-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0039-combination-sum) |
 ## Game Theory
 |  |
 | ------- |
