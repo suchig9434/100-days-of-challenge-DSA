@@ -72,6 +72,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [0039-combination-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0039-combination-sum) |
+| [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -290,6 +291,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [0835-image-overlap](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -433,6 +435,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
 | [0733-flood-fill](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -442,6 +445,7 @@ solve 100 days to 100 questions in leetcode platform
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [1096-brace-expansion-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1096-brace-expansion-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -508,6 +512,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 ## Segment Tree
 |  |
 | ------- |
