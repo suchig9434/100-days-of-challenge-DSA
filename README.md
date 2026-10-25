@@ -191,6 +191,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0029-divide-two-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0029-divide-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3886-sum-of-sortable-integers) |
+| [0168-excel-sheet-column-title](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0168-excel-sheet-column-title) |
 ## Number Theory
 |  |
 | ------- |
@@ -240,6 +241,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1021-remove-outermost-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0168-excel-sheet-column-title) |
 ## Stack
 |  |
 | ------- |
