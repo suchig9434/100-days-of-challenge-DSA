@@ -243,6 +243,7 @@ solve 100 days to 100 questions in leetcode platform
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0168-excel-sheet-column-title) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -429,6 +430,7 @@ solve 100 days to 100 questions in leetcode platform
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -456,6 +458,7 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
@@ -551,4 +554,8 @@ solve 100 days to 100 questions in leetcode platform
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
