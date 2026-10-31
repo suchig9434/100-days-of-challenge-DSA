@@ -74,6 +74,7 @@ solve 100 days to 100 questions in leetcode platform
 | [0039-combination-sum](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0039-combination-sum) |
 | [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0032-longest-valid-parentheses](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +299,7 @@ solve 100 days to 100 questions in leetcode platform
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [1254-number-of-closed-islands](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/suchig9434/100-days-of-challenge-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
